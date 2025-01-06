@@ -1,0 +1,16 @@
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ua="http://opcfoundation.org/UA/2008/02/Types.xsd"
+  xmlns:tns="Chair_of_Production_Systems/ISO_22400-2/"
+  targetNamespace="Chair_of_Production_Systems/ISO_22400-2/"
+  elementFormDefault="qualified"
+>
+  <xs:annotation>
+    <xs:appinfo>
+      <ua:Model ModelUri="Chair_of_Production_Systems/ISO_22400-2/" Version="1.0.0" PublicationDate="2024-02-06T13:57:02Z" />
+    </xs:appinfo>
+  </xs:annotation>
+  
+  <xs:import namespace="http://opcfoundation.org/UA/2008/02/Types.xsd" />
+
+</xs:schema>
